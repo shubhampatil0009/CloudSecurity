@@ -1,5 +1,5 @@
 # Hello, I'm Shubham
-<a href="(https://www.linkedin.com/in/shubham-patil09/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shubham-patil09/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 As a Cybersecurity Consultant, I collaborate with clients to assess, design, and implement cloud security solutions in AWS, Azure, and GCP. I leverage my expertise in risk frameworks, information security analysis, and cloud discovery to help them achieve their security and compliance goals.
 
