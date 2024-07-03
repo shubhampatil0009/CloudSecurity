@@ -13,18 +13,17 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 Seeking for a full time position as a Senior cloud security consultant/Analyst/engineer
 
-## Skills
 
 
-| Skill                                                           | Associated Project         |
+
+| Tools                                                         | Associated Project         |
 |-----------------------------------------------                  |----------------------------|
 | Crowdstrike CSPM tool, Microsoft Defender for Cloud Apps        | Multi-Cloud Discovery through Infrastrucure as a Service & Software as a Service
 | AWS Access Analyzer                                             | Application Policy Development    
 | Wiz.io CSPM                                                     | Privileged Access Discovery Capability Analysis
 | NIST 800-53                                                     | Compliance, Audit Playbook and Control Framework Gap Analysis
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 
 
