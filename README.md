@@ -28,9 +28,9 @@ Seeking for a full time position as a Senior cloud security consultant/Analyst/e
 
 
 ## Certifications
--ISC2 CCSP
--ISC2 CC
--AWS Cloud Practitioner
+  -ISC2 CCSP
+  -ISC2 CC
+  -AWS Cloud Practitioner
 
 
 ## Projects
